@@ -1,0 +1,11 @@
+asgiref==3.8.1
+certifi==2025.6.15
+Django==5.2.3
+djangorestframework==3.16.0
+Faker==37.4.0
+python-dateutil==2.9.0.post0
+six==1.17.0
+sqlparse==0.5.3
+typing_extensions==4.14.0
+tzdata==2025.2
+urllib3==2.5.0
