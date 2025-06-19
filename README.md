@@ -25,14 +25,14 @@ It helps recruiters manage candidates by providing CRUD operations and a powerfu
 
 ## 🛠️ Setup Instructions
 
-git clone https://github.com/yourusername/ats_project.git
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-cd ats_project
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python insert_candidates.py  #Optional: to generate 100 random data
+- git clone https://github.com/debandu/ats.git
+- python -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
+- cd ats_project
+- pip install -r requirements.txt
+- python manage.py makemigrations
+- python manage.py migrate
+- python insert_candidates.py  #Optional: to generate 100 random data
 
 
 ## 🔌 API Overview
